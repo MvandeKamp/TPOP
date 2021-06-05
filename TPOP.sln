@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPOP", "TPOP\TPOP.csproj", "{A96CB73A-31B3-48CE-807C-8FE5E0274605}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPOP Server", "TPOP Server\TPOP Server.csproj", "{B5CC924F-601F-47A5-9FD5-2401E02B6F10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameStateLib", "GameStateLib\GameStateLib.csproj", "{3139F586-5CF2-46D1-87DF-B32EDDD4A794}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A96CB73A-31B3-48CE-807C-8FE5E0274605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A96CB73A-31B3-48CE-807C-8FE5E0274605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A96CB73A-31B3-48CE-807C-8FE5E0274605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A96CB73A-31B3-48CE-807C-8FE5E0274605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5CC924F-601F-47A5-9FD5-2401E02B6F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5CC924F-601F-47A5-9FD5-2401E02B6F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5CC924F-601F-47A5-9FD5-2401E02B6F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5CC924F-601F-47A5-9FD5-2401E02B6F10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3139F586-5CF2-46D1-87DF-B32EDDD4A794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3139F586-5CF2-46D1-87DF-B32EDDD4A794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3139F586-5CF2-46D1-87DF-B32EDDD4A794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3139F586-5CF2-46D1-87DF-B32EDDD4A794}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {545357D5-8792-4C0B-B17D-38FB2C3A647F}
+	EndGlobalSection
+EndGlobal
